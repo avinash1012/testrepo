@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello ready to go child2");
+System.out.println("hello changes done in repo");
 }
 }
 
