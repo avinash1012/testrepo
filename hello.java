@@ -2,8 +2,9 @@ class Hello
 {
 public static void main(String args[])
 {
+<<<<<<< HEAD
 
-System.out.println("hello change should be on master");
+System.out.println("hello want to use cherrypick");
 
 }
 }
